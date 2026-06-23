@@ -4,7 +4,9 @@ This repository contains the implementation of two advanced Data Mining workflow
 
 The methodologies and structure follow the guidelines from the book *Learning Data Mining with Python* (Layton, 2015).
 
-## 🚀 Project Overview
+---
+
+##  Project Overview
 
 The project is structured into two main experimental sections:
 
